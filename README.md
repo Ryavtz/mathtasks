@@ -22,3 +22,4 @@ It's a good question to ask your candidate to evaluate his/her analitycal skills
 
 Then ask him/her to code it anyway and check it out.      
           
+The further questions might be as follows. What about the sum of 42 and 132, how many days are? Please build a distribution of sum as a function of year  
