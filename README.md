@@ -24,6 +24,8 @@ Transform this into a minor math problem and calculate what is a chance of such 
 
 It's a good question to ask your candidate to evaluate his/her analitycal skills. Let him/her to solve the problem just to count on paper. 5-10 minutes is okay. The main thing is how your candidate digs through it. 
 
-Then ask him/her to code it anyway and check it out.      
+Then ask him/her to code it anyway and check it out.
+
+**************************Attached is a short Python code to solve the problem   
           
 ### The further questions might be as follows. What about the sum of 42 and 132, how many days are? Please, build a distribution of sum as a function of year sum = f(year).   
