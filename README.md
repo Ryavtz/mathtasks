@@ -11,7 +11,7 @@ It says   "Hey, take a look at the dates of three big world events below
           *** 24.02.2022
               24+02+20+22=68"
 
-Oh my gosh! 68 is the most terrifying sum of day + month + year <century|decade> in the 20th cenury. Hence *** is the fucking one WW in the 21th century. 
+Oh my gosh! 68 is the most terrifying sum of day + month + year <century|decade> in the 20th cenury. Hence *** is the fucking one in the 21th century. 
 
 First, it sounds like a confirmation bias, isn't it? 
 
