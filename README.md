@@ -2,7 +2,7 @@
 
 ## Task#1 The Terrifying value of 68 
 
-<h5 style="background-color:DodgerBlue;">This problem came from a clickbait ad on Telegram messanger. 
+<h5 style=rgb(252, 211, 71)>This problem came from a clickbait ad on Telegram messanger. 
 The ad says "Hey, take a look at the dates of three big world events below
           WW1 28.07.1914
               28+07+19+14=68; 
