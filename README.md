@@ -10,7 +10,7 @@ The ad says "Hey, take a look at the dates of three big world events below
               01+09+19+39=68; 
           *** 24.02.2022
               24+02+20+22=68
-           According to jewish gematria 68 means..... <link>"
+           According to jewish gematria 68 means..... "
 
 Let me guess what's an average clicker's reaction is. 
 Oh my gosh! 68 is the most terrifying value of given day + month + year <century|decade> in the 20th century. It is not a simple coincidence. Hence *** may be the fucking one in the 21th century. 
@@ -28,4 +28,4 @@ Then ask him/her to code it anyway and check it out.
 
 **************************Attached is a short Python code to solve the problem   
           
-### The further questions might be as follows. What about the sum of 42 and 132, how many days are? Please, build a distribution of sum as a function of year sum = f(year).   
+### The further questions might be as follows. What about the value of 42 and 132, how many days are? Build a distribution of how many days as a function of the value --> How-many-days = f(value).   
