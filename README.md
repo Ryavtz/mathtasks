@@ -2,7 +2,7 @@
 
 ## Task#1 The Terrifying value of 68 
 
-This problem came from a clickbait ad on Telegram messanger. 
+<h5>This problem came from a clickbait ad on Telegram messanger. 
 The ad says "Hey, take a look at the dates of three big world events below
           WW1 28.07.1914
               28+07+19+14=68; 
@@ -10,7 +10,7 @@ The ad says "Hey, take a look at the dates of three big world events below
               01+09+19+39=68; 
           *** 24.02.2022
               24+02+20+22=68
-           According to jewish gematria 68 means..... "
+           According to jewish gematria 68 means..... " </h5>
 
 Let me guess what's an average clicker's reaction is. 
 Oh my gosh! 68 is the most terrifying value of given day + month + year <century|decade> in the 20th century. It is not a simple coincidence. Hence *** may be the fucking one in the 21th century. 
